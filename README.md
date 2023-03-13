@@ -1,4 +1,4 @@
-**Repository Name:** ALX Pre-Course
+**Repository Name:** ALX Pre-Course <br>
 **Repository Description:** Repository contains directories and files related to the 0x01-git ALX Project - Working on learning how to use git and github.
 
 **Repository Content**
